@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=LifeGame
+comment1.params=row\ col
+comment1.target=int\ liveNeighboursNum(int,\ int)
+comment2.params=
+comment2.target=void\ updateNextGen()
+comment3.params=
+comment3.target=void\ copyMatrix()
+comment4.params=
+comment4.target=void\ nextGeneration()
+comment5.params=
+comment5.target=void\ displayMatrix()
+comment6.params=
+comment6.target=void\ initMatrix()
+comment7.params=
+comment7.target=void\ init_next()
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+numComments=9
